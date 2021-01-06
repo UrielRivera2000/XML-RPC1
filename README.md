@@ -4,7 +4,7 @@ Proyecto XML-RPC que funcione como servidor, que permita recibir un arreglo de 5
 
   - Cliente que consuma el servicio
   - Nota:  _Consumir el servicio con postman._
- 
+     [Imagen de envidencia](https://github.com/UrielRivera2000/XML-RPC1/blob/main/EvidenciaPostman.png)
 ## Detalles  🚀
 _Es un ejemplo de un servico XML-RPC sencillo._
 
@@ -15,5 +15,6 @@ _Es un ejemplo de un servico XML-RPC sencillo._
 
 #### Notas  🤓
 _Espero sea de tu agrado, eres libre de mejorarlo._
+Elimina la imagen cuando lo quieras correr en intellij
 
      	
