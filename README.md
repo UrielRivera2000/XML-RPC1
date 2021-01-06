@@ -15,7 +15,6 @@ _Es un ejemplo de un servico XML-RPC sencillo._
 
 
 #### Notas  🤓
-_Espero sea de tu agrado, eres libre de mejorarlo._
-_Elimina la imagen cuando lo quieras correr en intellij._
+_Espero sea de tu agrado, eres libre de mejorarlo._                                                                                                              _Elimina la imagen cuando lo quieras correr en intellij._
 
      	
